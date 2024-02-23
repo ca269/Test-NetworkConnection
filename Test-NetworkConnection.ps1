@@ -1,4 +1,4 @@
-﻿#Ping Test Analyzer, written by Chris Arsenault.  This test will send the requested amount of "Pings" (at 1 second intervals) to the site of your choice, 
+﻿#Ping Test Analyzer, written by ca269.  This test will send the requested amount of "Pings" (at 1 second intervals) to the site of your choice, 
 #then record the round trip time.  The Data will be displayed as a line graph, and  you'll have the option of exporting it to a PNG file
 
 Add-Type -AssemblyName System.Windows.Forms
